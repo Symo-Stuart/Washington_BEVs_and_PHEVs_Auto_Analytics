@@ -1,5 +1,6 @@
 # Washington_BEVs_and_PHEVs_Auto_Analytics
 This Tableau project provides an analysis of the distribution of Battery Electric Vehicles (Bevs) and Plug-in Hybrid Electric Vehicles (Phevs) in Washington, as well as some insights into their trends, makes, and ranges. The project aims to inform stakeholders in the electric vehicle industry, policymakers, and consumers about the current state of Bev and Phev adoption in the state.
+**NB: You have to download the Tableau File in order to view the dashboard** Thanks
 
 ## Dashboard Overview
 The dashboard consists of five main sections:
